@@ -1,15 +1,15 @@
-*Install Arduino IDE
+1. Install Arduino IDE
 
-*Install the drivers need for the board
+2. Install the drivers need for the board
 
-*Type the program in Arduino IDE
+3. Type the program in Arduino IDE
 
-*Compile the program
+4. Compile the program
 
-*Select the port
+5. Select the port
 
-*Select the board
+6. Select the board
 
-*upload the code to the connected board
+7. Upload the code to the connected board
 
-*After compiling the code starts to run
+8. After compiling the code starts to run
