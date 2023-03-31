@@ -1,4 +1,5 @@
 *Install Arduino IDE
+
 *Install the drivers need for the board
 *Type the program in Arduino IDE
 *Compile the program
